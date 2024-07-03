@@ -10,18 +10,16 @@ Installation
 Clone the repository:
 
 bash
-Copy code
-git clone https://github.com/amoani-yeboah19/rn-assignment6-11333031.git
-cd rn-assignment6-11333031
+
 Install dependencies:
 
 bash
-Copy code
+
 npm install
 Run the application:
 
 bash
-Copy code
+
 npx react-native run-android  # for Android
 npx react-native run-ios      # for iOS
 Project Structure
